@@ -9,7 +9,6 @@ verify_ssl = true
 django = "==2.2.3"
 markdown = "*"
 pygments = "*"
-gunicorn = "*"
 
 [requires]
 python_version = "3.7"
