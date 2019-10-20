@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'aplq3&c&sb8l22-k&@1a^-9le)%n^(mejs#q!38ojj)q6uac8@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '192.168.182.128', '.humingblog.com']
+ALLOWED_HOSTS = ['127.0.0.1', '121.199.57.51', '.humingblog.com']
 
 
 # Application definition
